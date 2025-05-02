@@ -1,3 +1,5 @@
 merge branch
 ----
 change at merge
+----
+merge change2
